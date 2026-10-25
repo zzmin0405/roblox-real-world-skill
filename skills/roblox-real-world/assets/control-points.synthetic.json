@@ -1,0 +1,11 @@
+{
+  "crs": "LOCAL:synthetic-metre-grid",
+  "coordinate_type": "projected",
+  "units": "m",
+  "control_points": [
+    {"id": "A", "easting": 0, "northing": 0, "x": 0, "z": 0},
+    {"id": "B", "easting": 28, "northing": 0, "x": 100, "z": 0},
+    {"id": "C", "easting": 0, "northing": 28, "x": 0, "z": -100},
+    {"id": "D", "easting": 28, "northing": 28, "x": 100, "z": -100}
+  ]
+}

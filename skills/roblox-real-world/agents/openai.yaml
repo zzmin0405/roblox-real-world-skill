@@ -1,0 +1,4 @@
+interface:
+  display_name: "현실 공간 Roblox 재현"
+  short_description: "실측·사진·좌표 정합과 실제 Play 대조로 현실의 거리를 재현합니다"
+  default_prompt: "$roblox-real-world를 사용해 현재 프로젝트에서 현실 장소와 가장 큰 차이를 확인하고 실제 Play에서 검증한 개선을 반영해줘."
